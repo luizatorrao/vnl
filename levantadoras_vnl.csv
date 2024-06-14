@@ -1,0 +1,286 @@
+Nome,Pais,success,attempts
+Dain,KOR,247,11
+Brie,CAN,247,10
+Iwasaki,JPN,223,10
+Diao L.Y.,CHN,219,6
+Kästner,GER,215,9
+J. Natthanicha,THA,187,9
+Stojiljkovic,FRA,167,6
+Barakova,BUL,150,5
+Bongaerts,NED,128,2
+Mirkovic,SRB,125,6
+Marte,DOM,123,7
+Poulter,USA,117,4
+E. Şahin,TUR,112,7
+Van Aalen,NED,103,4
+Wołosz,POL,99,3
+Orro,ITA,99,5
+Roberta,BRA,94,7
+Carlini,USA,78,0
+Wenerska,POL,74,1
+Cambi,ITA,66,3
+Macris,BRA,60,3
+G. Pornpun,THA,60,2
+Özbay,TUR,58,4
+Straube,GER,50,2
+Miljevic,SRB,40,3
+Perovic,SRB,32,1
+Tamaki,JPN,24,1
+Kowalewska,POL,22,1
+Jiwon,KOR,20,3
+Guncheva,BUL,19,5
+Seki,JPN,19,0
+Hancock,USA,18,1
+Respaut,FRA,14,2
+A. Rodriguez,DOM,14,2
+Bosio,ITA,12,0
+Ding X.,CHN,9,0
+Dijkema,NED,3,0
+Baker,CAN,3,0
+S. Kanokporn,THA,3,2
+Shahpazova,BUL,3,1
+K. Pimpichaya,THA,2,2
+Sarang,KOR,1,0
+Jiyun M.,KOR,1,0
+Nyeme,BRA,1,0
+Stigrot,GER,1,0
+Yamada,JPN,1,0
+S. Donphon,THA,1,0
+Y. Rodriguez,DOM,1,0
+J. Martinez,DOM,1,0
+Uzelac,SRB,1,0
+Yordanova,BUL,0,0
+Paskova,BUL,0,1
+Becheva,BUL,0,0
+Rachkovska,BUL,0,0
+Krivoshiyska,BUL,0,1
+Dudova,BUL,0,0
+Pashkuleva,BUL,0,1
+B. Saykova,BUL,0,0
+Todorova,BUL,0,1
+Stoyanova,BUL,0,1
+A. Saykova,BUL,0,2
+Nikolova,BUL,0,0
+Knip,NED,0,0
+Plak,NED,0,1
+Knollema,NED,0,0
+Lohuis,NED,0,0
+Buijs,NED,0,0
+Baijens,NED,0,0
+Jasper,NED,0,0
+Timmerman,NED,0,0
+Reesink,NED,0,0
+Dambrink,NED,0,1
+Marring,NED,0,0
+Degradi,ITA,0,0
+Spirito,ITA,0,0
+Fersino,ITA,0,0
+Bosetti,ITA,0,0
+Nwakalor L.,ITA,0,0
+Danesi,ITA,0,0
+Bonifacio,ITA,0,0
+Nervini,ITA,0,0
+Omoruyi,ITA,0,0
+Mingardi,ITA,0,0
+Antropova,ITA,0,0
+Akrari,ITA,0,0
+Alagierska,POL,0,0
+Korneluk,POL,0,0
+Witkowska,POL,0,0
+Gałkowska,POL,0,0
+Stysiak,POL,0,1
+Łukasik,POL,0,0
+Szczygłowska,POL,0,0
+Łysiak,POL,0,0
+Damaske,POL,0,0
+Pacak,POL,0,0
+Piasecka,POL,0,0
+Mędrzyk,POL,0,1
+Yuan X.Y.,CHN,0,0
+Gao Y.,CHN,0,0
+Gong X.Y.,CHN,0,1
+Wang Y.Y.,CHN,0,0
+Xu X.T.,CHN,0,0
+Zhang C.N.,CHN,0,0
+Wang Y.L.,CHN,0,0
+Li Y.Y.,CHN,0,2
+Zheng Y.X.,CHN,0,0
+Ni F.F.,CHN,0,0
+Wang M.J.,CHN,0,2
+Wu M.J.,CHN,0,0
+Dahye,KOR,0,0
+Chaewon,KOR,0,0
+Juah,KOR,0,0
+Sohwi,KOR,0,1
+Jeongmin,KOR,0,0
+Dahyeon,KOR,0,0
+Jeongah,KOR,0,0
+Jiyun J.,KOR,0,0
+Hoyoung,KOR,0,0
+Seungju,KOR,0,0
+Diana,BRA,0,0
+Pri Daroit,BRA,0,0
+Rosamaria,BRA,0,1
+Julia Kudiess,BRA,0,0
+Gabi,BRA,0,1
+Ana Cristina,BRA,0,1
+Natinha,BRA,0,0
+Carol,BRA,0,0
+Kisy,BRA,0,0
+Bergmann,BRA,0,0
+Luzia,BRA,0,0
+Van Ryk,CAN,0,1
+Savard,CAN,0,1
+Murmann,CAN,0,1
+White,CAN,0,0
+Van Buskirk,CAN,0,0
+Ogoms,CAN,0,0
+Gray,CAN,0,1
+Mitrovic,CAN,0,0
+Johnson,CAN,0,1
+Joseph,CAN,0,0
+Jost,CAN,0,1
+Maglio,CAN,0,2
+Giardino,FRA,0,1
+Ndiaye,FRA,0,0
+Bernard,FRA,0,0
+Fanguedou,FRA,0,0
+Gicquel,FRA,0,1
+Sylves,FRA,0,0
+Elouga,FRA,0,0
+Olinga Andela,FRA,0,3
+Schalk,FRA,0,0
+Diouf,FRA,0,0
+Rotar,FRA,0,1
+Bah,FRA,0,0
+Cesar,GER,0,1
+Pogany,GER,0,0
+Stautz,GER,0,0
+Drewniok,GER,0,0
+Alsmeier,GER,0,1
+Schölzel,GER,0,1
+Jatzko,GER,0,0
+Cekulaev,GER,0,0
+Kindermann,GER,0,1
+Weitzel,GER,0,2
+Strubbe,GER,0,0
+Hayashi,JPN,0,0
+Koga,JPN,0,1
+Ishikawa,JPN,0,0
+Watanabe,JPN,0,0
+Kojima,JPN,0,0
+Inoue,JPN,0,0
+Fukudome,JPN,0,0
+Airi,JPN,0,4
+Kurogo,JPN,0,0
+Araki,JPN,0,0
+Wada,JPN,0,0
+Örge,TUR,0,0
+Aköz,TUR,0,1
+Vargas,TUR,0,0
+Aykaç,TUR,0,0
+Baladın,TUR,0,0
+İvegin,TUR,0,0
+Cebecioğlu,TUR,0,1
+Güneş,TUR,0,0
+Kalaç,TUR,0,0
+Arıcı,TUR,0,0
+Aydın,TUR,0,0
+Karakurt,TUR,0,0
+A. Skinner,USA,0,0
+Wong-Orantes,USA,0,0
+Frantti,USA,0,0
+Butler,USA,0,0
+M. Skinner,USA,0,0
+Larson,USA,0,0
+Parsons,USA,0,0
+Hall,USA,0,1
+Fleck,USA,0,0
+Cuttino,USA,0,0
+Ogbogu,USA,0,0
+Haneline,USA,0,0
+S. Wipawee,THA,0,1
+P. Piyanut,THA,0,1
+N. Thatdao,THA,0,2
+J. Sasipapron,THA,0,0
+B. Hattaya,THA,0,0
+M. Chatchu-On,THA,0,3
+P. Supattra,THA,0,0
+S. Thanacha,THA,0,0
+T. Wimonrat,THA,0,0
+B. Jarasporn,THA,0,0
+Osmajic,SRB,0,1
+Kurtagić,SRB,0,0
+Pusic,SRB,0,0
+Bjelica,SRB,0,0
+Jegdic,SRB,0,0
+Popovic,SRB,0,1
+Milenkovic,SRB,0,1
+Malesevic,SRB,0,1
+Lozo,SRB,0,0
+Kirov,SRB,0,0
+Bukilic,SRB,0,2
+Ivanovic,SRB,0,0
+Arias,DOM,0,0
+Eve,DOM,0,0
+Peralta,DOM,0,0
+Tapia,DOM,0,1
+G. Gonzalez,DOM,0,0
+Guillen,DOM,0,0
+Peña Isabel,DOM,0,4
+B. Martinez,DOM,0,0
+Gonzalez-Lopez,DOM,0,0
+Martinez-Caro,DOM,0,0
+Tainara,BRA,0,0
+Helena,BRA,0,0
+Daalderop,NED,0,0
+Lazovic,SRB,0,0
+N. Jidapa,THA,0,0
+K. Ajcharaporn,THA,0,0
+K. Kuttika,THA,0,0
+B. Tichakorn,THA,0,0
+Thaisa,BRA,0,0
+Fedusio,POL,0,0
+Czyrniańska,POL,0,0
+Smarzek,POL,0,0
+Centka,POL,0,0
+Jurczyk,POL,0,0
+Mijatovic,SRB,0,0
+Hentz,USA,0,0
+Thompson,USA,0,0
+Washington,USA,0,1
+Rettke,USA,0,1
+O'Neal,USA,0,0
+Plummer,USA,0,0
+Lanier,USA,0,0
+Lubian,ITA,0,0
+De Gennaro,ITA,0,0
+Sylla,ITA,0,0
+Egonu,ITA,0,0
+Fahr,ITA,0,0
+Cazaute,FRA,0,0
+Bauer,FRA,0,0
+Haewegene,FRA,0,0
+Gelin,FRA,0,2
+H. Jasper,NED,0,0
+Zhu T.,CHN,0,0
+Racheva,BUL,0,0
+Nikolova M.,BUL,0,0
+Weske,GER,0,2
+Grozer,GER,0,0
+Erdem,TUR,0,0
+Drews,USA,0,0
+Cook,USA,0,1
+Giovannini,ITA,0,0
+Kohn,GER,0,0
+Zhuang Y.S.,CHN,0,0
+Vidačić,SRB,0,0
+Medved,SRB,0,0
+Šućurović,SRB,0,0
+Gocanin,SRB,0,0
+Cvetkovic,SRB,0,0
+Tica,SRB,0,0
+Čikuc,SRB,0,0
+Suyeon,KOR,0,0
+Różański,POL,0,0
+Lorenne,BRA,0,0
